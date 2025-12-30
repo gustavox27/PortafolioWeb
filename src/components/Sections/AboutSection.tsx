@@ -7,7 +7,7 @@ const AboutSection: React.FC = () => {
     {
       icon: Code2,
       title: 'Desarrollo de Software',
-      description: 'Creación de aplicaciones web y móviles con tecnologías modernas'
+      description: 'Creación de aplicaciones web y móviles con tecnologías modernas para optimizacion de procesos empresariales'
     },
     {
       icon: Database,
